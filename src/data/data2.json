@@ -15,47 +15,47 @@
                     {
                         "child_id": 111 , 
                         "child_name" : "AngioTension II",
-                        "child_desc" :  "20 nanogram/kg/min First 3hr MAX: 80 nanogram/kg/min Maintainance Max: 40 nanogram/kg/min"
+                        "child_desc" :  "* Synthetic human angiotensin II, activates RAAS * \n Start: 20 nanogram/kg/min \n First 3hr MAX: 80 nanogram/kg/min \n Maintainance Max: 40 nanogram/kg/min"
                     },
                     {
                          "child_id": 112 , 
                          "child_name" : "Dobutamine",
-                         "child_desc" :  "2.5 mcg/kg/min MAX: 20 mcg/kg/min"
+                         "child_desc" :  "* α1+, β1+++, β2++ * \n Start: 2.5 mcg/kg/min \n MAX: 20 mcg/kg/min"
                     },
                     {
                          "child_id": 113 , 
                          "child_name" : "Dopamine",
-                         "child_desc" :  "a > b: > 10-20 mcg/kg/min 5mcg/kg/min MAX: 20 mcg/kg/min"
+                         "child_desc" :  "* Pure β: 5-10 mcg/kg/min \n α>β: >10-20 mcg/kg/min * \n Start: 5mcg/kg/min \n MAX: 20 mcg/kg/min"
                     },
                     {
                          "child_id": 114 , 
                          "child_name" : "Epinephrine",
-                         "child_desc" :  "1-2 mcg/min MAX:10 mcg/min"
+                         "child_desc" :  "* β: <3 mcg/min \n α: >6 mcg/min * \n Start: 1-2 mcg/min \n MAX:10 mcg/min"
                     },
                     {
                          "child_id": 115 , 
                          "child_name" : "Isoproterenol",
-                         "child_desc" :  "0.5 mcg/min MAX:30 mcg/min"
+                         "child_desc" :  "* β1 and β2 ++++* \n Start: 0.5 mcg/min \n MAX:30 mcg/min"
                     },
                     {
                          "child_id": 116 , 
-                         "child_name" : "Miirinone",
-                         "child_desc" :  "0.25 mcg/kg/min MAX: 0.75 mcg/kg/min"
+                         "child_name" : "Milrinone",
+                         "child_desc" :  "* PDE inhibitor: +vasodilate, +inotropy * \n Start: 0.25 mcg/kg/min \n MAX: 0.75 mcg/kg/min"
                     },
                     {
                          "child_id": 117 , 
                          "child_name" : "Norepinephrine",
-                         "child_desc" :  "2-12 mcg/min MAX: 30 mcg/min"
+                         "child_desc" :  "* α1 ++++,α2 ++++, β1+++ * \n Start: 2-12 mcg/min \n MAX: 30 mcg/min"
                     },
                     {
                          "child_id": 118 , 
                          "child_name" : "Phenylephrine",
-                         "child_desc" :  "100 mcg/min MAX: 240 mcg/min"                         
+                         "child_desc" :  "* α1+++ * \n Start: 100 mcg/min \n MAX: 240 mcg/min"                         
                     },
                     {
                          "child_id": 119 , 
                          "child_name" : "Vasopressin",
-                         "child_desc" :  "0.03 unit/min MAX: 0.03 unit/min"
+                         "child_desc" :  "* V1 * \n Start: 0.03 unit/min \n MAX: 0.03 unit/min"
                     }
                  ]
             },
